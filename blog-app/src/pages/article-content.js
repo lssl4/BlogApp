@@ -3,9 +3,7 @@ const articles = [
     name: "article1",
     title: "Article1 Title",
     content: [
-      `Welcome! Today we're going to be talking about the fastest way to
-            learn React. We'll be discussing some topics such as proin congue
-            ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
+      `Sed in turpis leo. 
             Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
             non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut 
             eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at 
@@ -28,8 +26,7 @@ const articles = [
     name: "article2",
     title: "Article2 Title",
     content: [
-      `In this article, we're going to be talking looking at a very quick way
-            to set up a Node.js server. We'll be discussing some topics such as proin congue
+      `Congue
             ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
             Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
             non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut 
@@ -53,9 +50,7 @@ const articles = [
     name: "article3",
     title: "Article3 Title",
     content: [
-      `Today is the day I talk about something which scares most people: resumes.
-            In reality, I'm not sure why people have such a hard time with proin congue
-            ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
+      `Sed in turpis leo. 
             Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
             non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut 
             eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at 

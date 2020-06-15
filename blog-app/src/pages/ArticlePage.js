@@ -43,7 +43,7 @@ const ArticlePage = ({ match }) => {
       <CommentsList comments={articleInfo.comments} />
       <AddCommentForm articleName={name} setArticleInfo={setArticleInfo} />
 
-      <h3>Other Articles:</h3>
+      <h3 style={{ textAlign: "center" }}>Other Articles:</h3>
       <ArticlesList articles={otherArticles} />
     </>
   );
